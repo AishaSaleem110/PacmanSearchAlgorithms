@@ -35,10 +35,15 @@ java Pacman --help
 
 ### Search Algorithms Implemented
 Question 1: Finding a Fixed Food Dot using Depth First Search
+
 Question 2: Breadth First Search
+
 Question 3: A* search
+
 Question 4: Finding All the Corners
+
 Question 5: Corners Problem: Heuristic
+
 Question 6: Eating All The Dots
 
 
