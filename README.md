@@ -25,8 +25,11 @@ javac @compile_list.txt
 Once compiled, you should be able to run the code for a naive search strategy  that always tells Pacman to go west and that has been implemented for you. This strategy allows Pacman to successfully arrive at the goal state in testMaze.
 
 java Pacman -l testMaze -f gowest -a
+
 java Pacman -l testMaze -f gowest -s
+
 You can see the list of all options and their default values via:
+
 
 java Pacman --help
 
